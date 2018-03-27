@@ -3,5 +3,5 @@ configurations to curl down into files when editing (using vim or emacs (read: v
 
 ### Import WordPress default .htaccess configuration
 ```
-!! curl -s https://github.com/classmember/config/blob/master/wordpress/htaccess
+!! curl -s https://raw.githubusercontent.com/classmember/config/master/wordpress/htaccess
 ```
